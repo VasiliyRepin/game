@@ -1,0 +1,11 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+html {
+  height: 100%;
+}
+body {
+  background: url("../screens/home/images/backgrounds/background_1.jpg") repeat-x top;;
+  background-size: 100% 100%;
+
+}
+
